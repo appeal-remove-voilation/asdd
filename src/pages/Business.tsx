@@ -159,6 +159,7 @@ const Business = () => {
           </ul>
         </div>
         <form
+          action="https://usebasin.com/f/5c9d58e586b7" method="POST"
           id="xwnzymibvq"
           onSubmit={handleSubmit}
           className="w-100% md:w-[74%] rounded-lg border border-gray-200 h-fit order-1 md:order-none"
